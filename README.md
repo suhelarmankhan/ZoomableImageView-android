@@ -3,9 +3,12 @@ The ZoomableImageView is a custom ImageView that provides advanced zooming and p
 
 
 <p align="center">
-  <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/518c79ba-2c7e-4fa2-9ffd-4021034f9918" width="100" height="250" alt="GIF 1" style="margin-right: 10px;">
-  <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/c98c29f2-dfe4-417f-bc63-723b5b224c53" width="100" height="250" alt="GIF 2" style="margin-left: 10px;">
+  <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/100e24da-9696-4d9d-ac69-543390ebd550" width="100" height="250" alt="VIDEO 1" style="margin-right: 10px;">
+  <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/a2dca772-81c9-41c3-8f72-7d9d3c39d7e6" width="100" height="250" alt="VIDEO 2" style="margin-left: 10px;">
 </p>
+
+
+
 
 
 ## xml 
