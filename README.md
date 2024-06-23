@@ -1,6 +1,13 @@
 # ZoomableImageView
 The ZoomableImageView is a custom ImageView that provides advanced zooming and panning capabilities. It allows users to zoom in and out on an image using pinch gestures and move the image around using drag gestures.
 
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/518c79ba-2c7e-4fa2-9ffd-4021034f9918" width="500" height="300" alt="GIF 1">
+    <img src="https://github.com/suhelarmankhan/ZoomableImageView/assets/112642509/c98c29f2-dfe4-417f-bc63-723b5b224c53" width="500" height="300" alt="GIF 2">
+</div>
+
+
 ## xml 
 ```xml
 <your_app_package_name.ZoomableImageView
