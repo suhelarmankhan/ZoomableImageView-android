@@ -35,7 +35,7 @@ zoomable_image.setImageBitmap(bitmap);
 
 ## ZoomableImageView.java (Java Class)
 ```java
-package Your_App_Package_Name_Here.JavaClasses;
+package Your_App_Package_Name_Here;
 
 import android.content.Context;
 import android.graphics.Bitmap;
